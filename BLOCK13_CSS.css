@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}
+
+.nav-first{
+    color: red;
+}
+.donut{
+    width: 100%;
+    height: 500px;
+}
+.text{
+color: red;
+}
+.lead{
+    text-align: right;
+    justify-content: right;
+   
+}
+.block2{
+display: flex;
+align-items: center;
+
+
+}
+.photo{
+    padding-left: 225px;
+}
