@@ -1,0 +1,20 @@
+.winner{
+    color: green;
+}
+.loser{
+    color: red;
+}
+.custom{
+    font-size: 64px;
+    text-align: center;
+}
+
+.container{
+    align-items: center;
+    padding-left: 520px;
+}
+.selesect{
+    padding-left: 520px;
+
+    color: black;
+}

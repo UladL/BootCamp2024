@@ -54,5 +54,5 @@ function reset (){
     p1Display.textContent = 0;
     p2Display.textContent = 0;
     p2Display.classList.remove('loser', 'winner')
-    p1Display.classList.add('loser', 'winner')
+    p1Display.classList.remove('loser', 'winner')
 }
